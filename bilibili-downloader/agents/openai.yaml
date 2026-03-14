@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili Downloader"
+  short_description: "Download Bilibili videos using yt-dlp"
+  default_prompt: "Use $bilibili-downloader to download a Bilibili video or course with yt-dlp and browser cookies."

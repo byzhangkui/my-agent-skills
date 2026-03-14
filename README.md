@@ -13,6 +13,7 @@ A curated collection of custom AI Agent skills designed to automate complex work
 | Skill Name | Description | Link |
 | :--- | :--- | :--- |
 | **Convert PDF to PNG** | Seamlessly convert PDF pages to high-resolution PNG images using PyMuPDF. | [View Skill](pdf-to-png/SKILL.md) |
+| **Record Lessons Learned** | Record lessons learned in PROGRESS.md to build project memory and avoid repeating mistakes. | [View Skill](progress/SKILL.md) |
 
 ## 📦 Getting Started
 
