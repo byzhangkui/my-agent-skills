@@ -1,2 +1,8 @@
 skillshare
 .DS_Store
+.skillshare-manifest.json
+
+# Skillshare symlinks (managed externally)
+auto-branch
+pdf-to-png
+transcribe-audio
