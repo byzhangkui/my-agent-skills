@@ -12,8 +12,11 @@ A curated collection of custom AI Agent skills designed to automate complex work
 
 | Skill Name | Description | Link |
 | :--- | :--- | :--- |
-| **Convert PDF to PNG** | Seamlessly convert PDF pages to high-resolution PNG images using PyMuPDF. | [View Skill](pdf-to-png/SKILL.md) |
-| **Record Lessons Learned** | Record lessons learned in PROGRESS.md to build project memory and avoid repeating mistakes. | [View Skill](progress/SKILL.md) |
+| **Imagen** | 使用 Google AI 生成图片（Gemini 3 Pro Image / Imagen 4.0） | [View Skill](imagen/SKILL.md) |
+| **Gmail** | 抓取和处理 Gmail 邮件到 Obsidian 笔记 | [View Skill](gmail/SKILL.md) |
+| **Bilibili Downloader** | 使用 yt-dlp 下载 Bilibili 视频、合集和课程 | [View Skill](bilibili-downloader/SKILL.md) |
+| **Auto Branch** | 分析未提交变更，自动生成语义化分支名 | [View Skill](auto-branch/SKILL.md) |
+| **PDF to PNG** | 将 PDF 页面转换为高清 PNG 图片 | [View Skill](pdf-to-png/SKILL.md) |
 
 ## 📦 Getting Started
 
@@ -26,8 +29,7 @@ A curated collection of custom AI Agent skills designed to automate complex work
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/my-ai-skills.git
-   cd my-ai-skills
+   git clone git@github.com:byzhangkui/my-agent-skills.git ~/.claude/skills
    ```
 
 2. **Set up the environment:**
